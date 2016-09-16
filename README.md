@@ -1,2 +1,4 @@
 
-# ClassProject For CSCI 2212-2 Intermediate C++/C, University of New Haven
+# ClassProject for application programming 
+
+https://github.com/CS2212-2/ClassProject
